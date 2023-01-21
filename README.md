@@ -1,2 +1,2 @@
-# HTML-CSS projectssb
+# HTML-CSS project
 
